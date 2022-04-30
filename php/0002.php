@@ -6,6 +6,7 @@ class Solution {
 * @param ListNode $l2
 * @return ListNode
 */
+//Nice !
 function addTwoNumbers($l1, $l2) {
 $head = $current = new ListNode();
 $valNext = 0;
