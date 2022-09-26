@@ -1,2 +1,2 @@
-a=[1,2,3,4,5]
-print(sum(a[0:3]))
+s="zxc sdf sdvs"
+print(s.count(' ')+1)
