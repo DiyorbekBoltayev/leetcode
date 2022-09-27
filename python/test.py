@@ -1,2 +1,3 @@
-s="zxc sdf sdvs"
-print(s.count(' ')+1)
+a=[1,2,3,4]
+for i in range(0,len(a),2):
+    print(i)
