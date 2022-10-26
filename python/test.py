@@ -1,5 +1,3 @@
-a="sdfgdf";
-print(a[0:0]+a[0+2:])
-label nishon1
-dsd
+a=[1,2,35667,546745,7,8,9,0]
+print(len(a))
 
