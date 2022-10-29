@@ -1,0 +1,6 @@
+a=input()
+b=input()
+d=a.split()
+e=b.split()
+f=((int(e[0])*3600)+(int(e[1])*60)+(int(e[2])))-((int(d[0])*3600)+(int(d[1])*60)+(int(d[2])))
+print(f)

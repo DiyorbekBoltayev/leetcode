@@ -1,0 +1,6 @@
+a=int(input())
+e=input()
+b=e.split()
+d=max(b)
+b.pop(b.index(d))
+print(max(b))
