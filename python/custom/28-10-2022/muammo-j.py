@@ -7,7 +7,7 @@ x2=x2.split()
 d3=int(x2[0])
 d4=int(x2[1])
 
-if abs(k1-d3)==abs(k2-d4)==1 or abs(k1-d3)==1 and k2==d4 or abs(k2-d4)==1 and k1==d3:
+if abs(k1-d3)==abs(k2-d4)==2 or abs(k1-d3)==2 and k2==d4 or abs(k2-d4)==2 and k1==d3:
     print('HA')
 else:
     print('YOQ')
